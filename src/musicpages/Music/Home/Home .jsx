@@ -16,7 +16,7 @@ const Home = () => {
 
   return (
     <>
-      <section className="px-5 mt-10 text-white">
+      <section className="px-5 mt-10 text-white mb-40">
         <main className="flex justify-between ">
           <button className="border p-1 rounded-md">Connect Wallet</button>
           <IoIosNotifications className="w-10 h-10" />

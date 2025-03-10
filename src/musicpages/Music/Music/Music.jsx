@@ -58,7 +58,7 @@ const Music = () => {
   };
 
   return (
-    <main className="">
+    <main className="mb-40">
       <figure className=""></figure>
       <figure
         className="relative w-full h-50 "

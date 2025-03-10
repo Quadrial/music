@@ -2,7 +2,7 @@ import React from "react";
 
 const Explorer = () => {
   return (
-    <main className="py-10 text-white">
+    <main className="py-10 text-white mb-40">
       <p className="text-2xl font-semibold">Explorer</p>
 
       <section>

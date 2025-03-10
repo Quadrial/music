@@ -5,7 +5,7 @@ import { IoRefreshOutline } from "react-icons/io5";
 
 const Library = () => {
   return (
-    <section className="text-white py-10">
+    <section className="text-white py-10 mb-40">
       <main className="flex justify-between">
         <h1 className="text-2xl font-semibold">Your Library</h1>
         <div className="flex gap-3">

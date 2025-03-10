@@ -2,7 +2,7 @@ import { IoIosNotifications } from "react-icons/io";
 
 const NFTs = () => {
   return (
-    <section className="px-5 py-10 text-white">
+    <section className="px-5 py-10 text-white mb-30">
       <main className="flex justify-between ">
         <button className="border p-1 rounded-md">Connect Wallet</button>
         <IoIosNotifications className="w-10 h-10" />
