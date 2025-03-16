@@ -58,7 +58,7 @@ const Music = () => {
   };
 
   return (
-    <main className="mb-40">
+    <main className="mb-40 lg:mt-16 md:mt-16">
       <figure className=""></figure>
       <figure
         className="relative w-full h-50 "
@@ -72,7 +72,7 @@ const Music = () => {
           <h1 className="text-3xl font-bold text-white">Rema</h1>
         </div>
       </figure>
-      <section className="mt-5 px-5 text-white flex flex-col gap-5">
+      <section className="mt-5 px-5 md:px-20 lg:px-20 text-white flex flex-col gap-5">
         <p className="">7.3M Monthly Listners</p>
         <main className="flex justify-between">
           <figure className="flex flex-row gap-3">
