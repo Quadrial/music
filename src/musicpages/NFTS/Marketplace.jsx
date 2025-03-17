@@ -7,7 +7,7 @@ const Marketplace = () => {
   const [activeTab, setActiveTab] = useState("creators");
 
   return (
-    <section className="px-5 py-10 text-white mb-30">
+    <section className="px-5 md:px-10 lg:px-30 py-10 text-white mb-30 md:mt-10 lg:mt-10">
       <main className="flex justify-between">
         {/* Conditional Navigation Button */}
         {activeTab === "creators" ? (
